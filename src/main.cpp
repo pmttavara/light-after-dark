@@ -2744,7 +2744,7 @@ int main(int argc, char *argv[]) {
     return 0;
 #else            
 
-#define PORTFOLIO 
+//#define PORTFOLIO 
 #ifdef PORTFOLIO        
     {
         fade_out = false;
